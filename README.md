@@ -22,11 +22,14 @@ Datormācības kursa elektroniskā klade
   **>** - saglabā kādu komandu failā; ja eksistē, tad pārraksta; ja neeksistē - izveido (`history > history20180917.txt`)  
   **>>** - saglabā kādu komandu failā; ja eksistē, tad pievieno/pieraksta; ja neeksistē - izveido (`history > history20180917.txt`)  
   **cat failanosaukums.txt** - lasa failus kā teksta failus  
-  **nano** - ļauj rediģēt teksta failu/teksta redaktors  
+  **nano** - ļauj rediģēt teksta failu; teksta redaktors  
   **chmod** - ļauj rediģēt teksta permisijas/piekļuves decimālos skaitļos  
   **mkdir** - izveido mapi  
   **rmdir** - izdzēš mapi  
-  **echo -e** - nodrukā tekstu uz ekrāna, -e atļauj izmantot \ interpretācijas
+  **echo -e** - nodrukā tekstu uz ekrāna, -e atļauj izmantot "\" interpretācijas (`echo -e "teksts\nteksts\nteksts"`); n - jaunā rindā  
+  **cp** - kopēt failus  (`cp fails34.txt fails43.txt`) 
+  **mv** - pārvietot failus  (`mv fails1.txt Music/`) 
+  
   
   
   

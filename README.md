@@ -19,8 +19,14 @@ Datormācības kursa elektroniskā klade
   **man komanda** - parāda komandas aprakstu  
   **komanda -a** - parāda atslēgas  
   **history** - parāda vēsturi
-  **>** - saglabā kādu komandu failā (`history > history20180917.txt`)  
-  **cat failanosaukums.txt** - lasa failus kā teksta failus 
+  **>** - saglabā kādu komandu failā; ja eksistē, tad pārraksta; ja neeksistē - izveido (`history > history20180917.txt`)  
+  **>>** - saglabā kādu komandu failā; ja eksistē, tad pievieno/pieraksta; ja neeksistē - izveido (`history > history20180917.txt`)  
+  **cat failanosaukums.txt** - lasa failus kā teksta failus  
+  **nano** - ļauj rediģēt teksta failu/teksta redaktors  
+  **chmod** - ļauj rediģēt teksta permisijas/piekļuves decimālos skaitļos  
+  **mkdir** - izveido mapi  
+  **rmdir** - izdzēš mapi  
+  **echo -e** - nodrukā tekstu uz ekrāna, -e atļauj izmantot \ interpretācijas
   
   
   

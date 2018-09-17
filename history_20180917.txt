@@ -1,34 +1,187 @@
     1  VirtualBox --startvm XP
     2  quartus
-    3  unalia
-    4  unalias
-    5  uname
-    6  clear
-    7  unamae
-    8  clear
-    9  uname
-   10  uname 
-   11  clear
-   12  man uname
-   13  uname -a
-   14  clear
-   15  echo $0
-   16  sh
-   17  echo $0
-   18  whoami
-   19  who
-   20  clear
-   21  pwd
-   22  man pwd
-   23  ls
-   24  ls _l
-   25  ls -l
-   26  ls -a
-   27  ls -la
-   28  ls -al
+    3  firefox &
+    4  cd Music/
+    5  pwd
+    6  ls
+    7  ls -l
+    8  ls -a
+    9  ls -la
+   10  cd .
+   11  pwd
+   12  cd ..
+   13  pwd
+   14  cd .
+   15  pwd
+   16  cd ..
+   17  pwd
+   18  ls -la
+   19  cd .
+   20  ls -la
+   21  cd ..cd ..
+   22  ls -la
+   23  cd ..
+   24  ls -la
+   25  cd .
+   26  pwd
+   27  cd ..
+   28  pwd
    29  clear
-   30  ls -la
-   31  clera
-   32  clear
-   33  history
-   34  history > history_20180917.txt
+   30  pwd
+   31  cd /home/user
+   32  pwd
+   33  cd ..
+   34  pwd
+   35  cd ..
+   36  pwd
+   37  cd~
+   38  pwd
+   39  cd ~
+   40  pwd
+   41  cd /
+   42  pwd
+   43  cd
+   44  pwd
+   45  ../../
+   46  pwd
+   47  cd ../../
+   48  pwd
+   49  cd ..~..~/./
+   50  clear
+   51  pwd
+   52  cd home/user/
+   53  pwd
+   54  cd Desktop/
+   55  pwd
+   56  .
+   57  pwd
+   58  cd .
+   59  pwd
+   60  cd .
+   61  pwd
+   62  cd ..
+   63  pwd
+   64  mkdir ManaMape
+   65  ls
+   66  ls -la
+   67  cd ManaMape/
+   68  pwd
+   69  ;s
+   70  ls
+   71  ls -la
+   72  cd ..
+   73  pwd
+   74  cd ManaMape/
+   75  pwd
+   76  cd ..
+   77  pwd
+   78  cd ManaMape/
+   79  ls -la
+   80  cd ..
+   81  pwd
+   82  rmdir ManaMape/
+   83  pwd
+   84  mkdir ManaMape/
+   85  cd ManaMape/
+   86  pwd
+   87  mkdir ManaPapildusMape
+   88  pwd
+   89  mkdir ManaPapildusMape
+   90  pwd
+   91  cd ManaPapildusMape/
+   92  pwd
+   93  cd
+   94  ls
+   95  rmdir ManaMape/
+   96  man rmdir
+   97  man rm
+   98  rm -r ManaMape/
+   99  ls
+  100  clear
+  101  man echo
+  102  echo "Teksts"
+  103  echo "Teksts\nTeksts\nTeksts"
+  104  man echo
+  105  man echo -e "Teksts\nTeksts\nTeksts"
+  106  echo -e "Teksts\nTeksts\nTeksts"
+  107  man echo
+  108  echo -e "Teksts\n       Teksts\n   Teksts"
+  109  man echo
+  110  echo "Teksts" > fails1.txt
+  111  cat fails1.tx
+  112  cat fails1.txt
+  113  ls -l
+  114  echo -e "Teksts\nTeksts\n          Teksts\n   Teksts" > fails2.txt
+  115  cat fails2.txt
+  116  clear
+  117  cat sleep
+  118  cd /bin$
+  119  cd /bin
+  120  pwd
+  121  cat sleep
+  122  cd
+  123  ls
+  124  pwd
+  125  clear
+  126  cat sleep
+  127  echo "cits teksts" > fails1.txt
+  128  ls -l
+  129  cat fails1.txt
+  130  echo "cits_teksts" >> fails1.txt
+  131  cat fails1.txt
+  132  ls -l
+  133  clear
+  134  chmod 500 fails1.txt
+  135  ls -l
+  136  echo "pavisam cits teksts" > fails1.txt
+  137  echo "pavisam cits teksts" >> fails1.txt
+  138  echo "pavisam cits teksts" >> ../fails1.txt
+  139  pwd
+  140  nano 
+  141  nano fails1.txt
+  142  ls -l
+  143  cat fails3.txt
+  144  cat fails2.txt
+  145  man echo
+  146  cp fails2.txt fails34.txt
+  147  -ls
+  148  -ls l
+  149  ls -l
+  150  mv fails1.txt Music/
+  151  ls -l
+  152  cd Music/
+  153  ls -l
+  154  CD ..
+  155  cd ..
+  156  ls
+  157  mv fails*.txt Music/
+  158  ls -l
+  159  cd ..
+  160  pwd
+  161  cd Music/
+  162  cd .
+  163  pwd
+  164  cd ~
+  165  pwd
+  166  Music/ cd ..
+  167  Music/ ls
+  168  cd .
+  169  pwd
+  170  cd .
+  171  pwd
+  172  cd Music/
+  173  ls
+  174  mv fails3.txt fails34.txt
+  175  ls
+  176  mv fails1.txt ../fails101.txt
+  177  ls
+  178  cd ..
+  179  ls
+  180  mv Music/*.txt./
+  181  ls
+  182  mv Music//*.txt ./
+  183  ls
+  184  rm fails*.txt
+  185  ls
+  186  history
+  187  history > history_20180917.txt 

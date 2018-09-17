@@ -20,7 +20,7 @@ Datormācības kursa elektroniskā klade
   **komanda -a** - parāda atslēgas  
   **history** - parāda vēsturi
   **>** - saglabā kādu komandu failā (`history > history20180917.txt`)  
-  **cat failanosaukums.txt** - atver attiecīgo failu  
+  **cat failanosaukums.txt** - lasa failus kā teksta failus 
   
   
   

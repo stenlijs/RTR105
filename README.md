@@ -1,7 +1,7 @@
 # RTR105
-Datormācības kursa elektroniskā klade  
+Datormācības kursa elektroniskā klade   :shipit:
   
-  # pirmā nodarbība
+  # pirmā nodarbība  
   **firefox &** - atvērt firefox pārlūku  
   **cd** - pārvietojas pa mapēm  
   **whoami** - kas es esmu  

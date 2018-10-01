@@ -34,8 +34,9 @@ Datormācības kursa elektroniskā klade   :shipit:
   **cp** - kopēt failus  (`cp fails34.txt fails43.txt`)  
   **mv** - pārvietot failus  (`mv fails1.txt Music/`)  
   # trešā nodarbība  
-  **=** piešķiršanas operācija  
-    
+  **=** -  piešķiršanas operācija  
+  **$PATH** - ceļš  
+
     
   
   

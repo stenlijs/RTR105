@@ -1,0 +1,61 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  qwho
+    5  who
+    6  whpami
+    7  whoami
+    8  pwd
+    9  ls
+   10  clear
+   11  cat /bin/ls
+   12  clear62;cwhere is
+   13  clear
+   14  whereis ls
+   15  clear
+   16  nano mans_skripts.sh
+   17  ls -l
+   18  cat mans_skripts.sh
+   19  cat ls
+   20  ls
+   21  .
+   22  ./mans_skripts.sh
+   23  ~/mans_skripts.sh
+   24  /home/user/mans_skripts.sh
+   25  mans_skripts.sh
+   26  ls -l
+   27  chmod 764 mans_skripts.sh 
+   28  ls -l
+   29  mans_skripts.sh
+   30  echo $PATH
+   31  ls -l /bin | grep ls
+   32  ls -l /bin | grep als
+   33  ls -l /bin | grep fsls
+   34  pwd
+   35  PATH=$PATH:~
+   36  echo $PATH
+   37  mans_skripts.sh 
+   38  ls -l
+   39  clear
+   40  nano mans_skripts.sh
+   41  pwd
+   42  cd
+   43  pwd
+   44  ls -l
+   45  rm -r Mape/
+   46  ls -l
+   47  clear
+   48  git clone https://github.com/stenlijs/RTR105
+   49  ls -l
+   50  mv mans_skripts.sh RTR105/
+   51  cd RTR105/
+   52  ls -l
+   53  nano README.md 
+   54  fg
+   55  fgfg
+   56  fg
+   57  nano README.md 
+   58  ls -l
+   59  pwd
+   60  ls -l
+   61  history > history_20181001a.txt

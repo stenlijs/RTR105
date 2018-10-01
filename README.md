@@ -33,8 +33,8 @@ Datormācības kursa elektroniskā klade   :shipit:
   **echo -e** - nodrukā tekstu uz ekrāna, -e atļauj izmantot "\" interpretācijas (`echo -e "teksts\nteksts\nteksts"`); n - jaunā rindā  
   **cp** - kopēt failus  (`cp fails34.txt fails43.txt`)  
   **mv** - pārvietot failus  (`mv fails1.txt Music/`)  
-    # trešā nodarbība  
-    **=** piešķiršanas operācija  
+  # trešā nodarbība  
+  **=** piešķiršanas operācija  
     
     
   

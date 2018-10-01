@@ -32,7 +32,11 @@ Datormācības kursa elektroniskā klade   :shipit:
   **rm** - izdzēš mapi (izmanto, ja vajag izdzēst mapi, kura satur mapes)  
   **echo -e** - nodrukā tekstu uz ekrāna, -e atļauj izmantot "\" interpretācijas (`echo -e "teksts\nteksts\nteksts"`); n - jaunā rindā  
   **cp** - kopēt failus  (`cp fails34.txt fails43.txt`)  
-  **mv** - pārvietot failus  (`mv fails1.txt Music/`) 
+  **mv** - pārvietot failus  (`mv fails1.txt Music/`)  
+    # trešā nodarbība  
+    **=** piešķiršanas operācija  
+    
+    
   
   
   

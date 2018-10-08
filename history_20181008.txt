@@ -1,0 +1,25 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git close https:/github.com/stenlijs/RTR105
+    4  y
+    5  git clone https:/github.com/stenlijs/RTR105
+    6  git clone https://github.com/stenlijs/RTR105
+    7  cd RTR105/
+    8  pwd
+    9  nano RTR105
+   10  nano dialogs.py
+   11  fg
+   12  python dialogs.py
+   13  pwd
+   14  ls -l
+   15  python dialogs.py
+   16  nano dialogs.py
+   17  python dialogs.py
+   18  nano dialogs.py
+   19  python dialogs.py 
+   20  nano dialogs.py
+   21  python dialogs.py 
+   22  55
+   23  python dialogs.py 
+   24  clear
+   25  history > history_20181008.txt

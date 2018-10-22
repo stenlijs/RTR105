@@ -1,0 +1,6 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  idle test_2.py
+    4  dgr_20181022.py
+    5  nano README.md 
+    6  history > history_20181022.txt
